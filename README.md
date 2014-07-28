@@ -14,7 +14,7 @@ Simple ManiaScript syntax highlighter for Notepad++ with UDL 2.1
 
 ##Screenshot##
 
-![Screenshot of the highlighting my Notepad++ Twig highlighter does.](http://i.imgur.com/EXOQ3gP.png)
+![Screenshot of the highlighting my Notepad++ ManiaScript highlighter does.](http://i.imgur.com/EXOQ3gP.png)
 
 ##Licence##
 
